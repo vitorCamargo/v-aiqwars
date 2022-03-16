@@ -10,9 +10,13 @@
 'aiqfome' front-end test example.
 ```
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bdb6665c-6524-4c0a-9cd1-4ff4b14cbc2c/deploy-status)](https://app.netlify.com/sites/v-aiqwars/deploys)
+[![wakatime](https://wakatime.com/badge/user/7b1f94df-e34d-4b10-8939-0f8abe0871dd/project/04c0ee29-dfae-438f-b470-4ab8c0def170.svg)](https://wakatime.com/badge/user/7b1f94df-e34d-4b10-8939-0f8abe0871dd/project/04c0ee29-dfae-438f-b470-4ab8c0def170)
+
 ### Project
 
-* This *Page Application* is available [here](v-aiqwars.netlify.app/).
+* This *Page Application* is available [here](https://v-aiqwars.netlify.app/).
 * The challenge design are [here](https://xd.adobe.com/view/b618f65e-b66c-4e05-b753-3896fb6772f3-e34b/).
 
-**Initial Date:** 2022-03-14.
+**Start at:** 2022-03-14.
+**Finish at:** 2022-03-16.
