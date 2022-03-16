@@ -1,0 +1,34 @@
+header {
+  height: 100px !important;
+  background-color: @layout-header-background;
+
+  .ant-menu {
+    background-color: @layout-header-background;
+    border-bottom-color: @layout-header-background;
+  }
+
+  .ant-menu {
+    display: flex;
+    align-items: center;
+    flex: 1;
+
+    a {
+      color: #fff !important;
+    }
+
+    .ant-menu-item span {
+      padding: 8px 40px;
+      border-radius: 50px;
+    }
+
+    .ant-menu-item-active span, .ant-menu-item-selected span, .ant-menu-item:hover span {
+      background-color: @layout-card-background;
+    }
+
+    .ant-menu-item-active::after,
+    .ant-menu-item-selected::after,
+    .ant-menu-item:hover::after {
+      display: none !important;
+    }
+  }
+}
